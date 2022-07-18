@@ -1,2 +1,1 @@
-https://github.com/kautukkundan/Awesome-Profile-README-templates
-https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#customization
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngochai-hcmus&show_icons=true&theme=radical)
