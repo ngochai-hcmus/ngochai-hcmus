@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngochai-hcmus&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngochai-hcmus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
